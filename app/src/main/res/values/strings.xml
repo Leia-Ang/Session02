@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Session02</string>
+    <string name="bill_please">Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="no_of_pax">No. of Pax</string>
+    <string name="no_svs">NO SVS</string>
+    <string name="gst">GST</string>
+</resources>
